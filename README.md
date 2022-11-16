@@ -27,7 +27,7 @@ THEN I exit the application, and the HTML is generated
 ## Description
 The Team Profile Generator is a tool for a manager to create a page that will display their entire team's basic information. This can be used by the entire team to access basic information on each individual on the team. The page will display information like team members names, email addresses, GitHub usernames, and employee IDs. 
 
-## Usage
+## Installation and Usage
 To use the Team Profile Generator, clone the repository onto your own device and install the necessary packages by running the following commands:
 * npm install
 * npm i inquirer
@@ -35,3 +35,8 @@ To use the Team Profile Generator, clone the repository onto your own device and
 
 To run the application, run "node index.js" in your terminal. Follow the question prompt to add a manager, engineers, and interns. Once you are done adding employees, an index.html file will populate the information you entered. 
 
+# Questions
+
+  Wanting to understand more about this repo?
+
+  Contact me at https://github.com/sukipannu/ or at sukipannu@ymail.com. 
